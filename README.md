@@ -8,7 +8,7 @@ Este projeto destaca minhas diferentes abordagens e experiências na produção 
 Na era digital em que vivemos, saber "vender seu peixe" — o famoso *personal branding* — é uma habilidade essencial para diversas carreiras e áreas de atuação no mercado de trabalho, seja utilizando redes sociais como Instagram e LinkedIn, ou utilizando sites próprios, como é o meu caso.
 
 O intuito deste projeto é documentar minhas experiências criando meus portfólios e as diferenças que encontrei em cada abordagem.
-### Primeiro Portfólio
+## Primeiro Portfólio
 O meu Primeiro portfolio foi o [Meu portfólio](https://luizv315.pythonanywhere.com/), que surgiu como projeto final de um curso de Python que eu estava fazendo. O desafio era criar e publicar um portfólio pessoal utilizando Python como backend. 
 
 #### Ferramentas utilizadas
@@ -25,7 +25,7 @@ Após a finalização do projeto, foi necessário deixá-lo online. Para a hospe
 ![certificados](./assets/images/p2.png)
 ![codigo](./assets/images/p3.png)
 
-### Segundo Portfólio
+## Segundo Portfólio
 Neste segundo [portfólio](https://portfo-2.vercel.app/#top),a ideia foi atualizar o projeto anterior tanto em design quanto em hospedagem e backend.
 
 ![home](./assets/images/p4.png)
@@ -42,6 +42,23 @@ Para o backend, eu queria testar uma ferramenta nova e mais desafiadora, e acabe
 
 No fim das contas, esse projeto foi muito divertido e desafiador, pois as ferramentas utilizadas exigiram mais atenção e esforço da minha parte.
 
-![About](./assets/images/p5.png)
+![Sobre](./assets/images/p5.png)
 ![Certificado](./assets/images/p6.png)
 ![Contato](./assets/images/p7.png)
+
+## Terceiro Portfólio
+Este [terceiro projeto](https://dados-na-batida-luiz-portfolio.lovable.app)foi desenvolvido inteiramente utilizando Inteligência Artificial.
+
+![home](./assets/images/p8.png)
+
+
+#### Ferramentas utilizadas 
+
+- [Meta AI](https://www.meta.ai)  
+- [Lovable](https://lovable.dev/)
+
+Neste último portfólio, comecei buscando inspiração para um novo projeto utilizando o Meta AI. Após muitas horas de testes, encontrei um template que me agradou. Em seguida, utilizei o Lovable para ajustar alguns aspectos do projeto e, por fim, publicá-lo.
+
+![Sobre](./assets/images/p9.png)
+![Certificados](./assets/images/p10.png)
+![Áreas de atuação ](./assets/images/p11.png)
